@@ -1,0 +1,1 @@
+Gt es un sistema de control de versiones ideado por Linus Torvalds. capitulos.txt
